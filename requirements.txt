@@ -1,5 +1,5 @@
 # requirements.txt
 snowflake-connector-python
-streamlit.title(':cup_with_straw: Customize Your Smoothie! :cup_with_straw:')
+streamlit.title('Customize Your Smoothie!')
 snowflake-snowpark-python
 streamlit==1.31.1
